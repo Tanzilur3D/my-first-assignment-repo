@@ -1,0 +1,43 @@
+
+.container {
+    position: relative;
+    margin-left: 100px;
+}
+
+.center{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+    font-size: 32px;
+
+}
+.counter{
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 72px;
+    color: #FFF;
+}
+.had{
+    text-align: center;
+    font-size: 88px;
+    color: #FF0000;
+}
+.had-code{
+    text-align: center;
+    font-size: 24px;
+    color: #FF0000;
+    
+}
+.image{
+    width: 802.9px;
+    height: 500px;
+    margin-left:300px;
+}
+
+h2{
+    text-align: center;
+}

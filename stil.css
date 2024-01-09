@@ -2,6 +2,7 @@
 .container {
     position: relative;
     margin-left: 100px;
+    
 }
 
 .center{
@@ -40,4 +41,56 @@
 
 h2{
     text-align: center;
+}
+.party{
+   position: relative;
+   margin-left: 100px; 
+}
+.victory{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 64px;
+    color: #FFF;
+}
+.thank{
+    position: absolute;
+    top: 60%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.80);
+    line-height: 30px;
+}
+.about{
+    position: absolute;
+    font-size: 20px;
+    top: 70%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+}
+.hide{
+    margin: 150px 0;
+}
+.text{
+    margin-left: 100px;
+    
+}
+.text2{
+    color: #F00;
+    font-size: 24px;
+    line-height: normal;
+
+}
+.text3{
+    color: #070211;
+    font-size: 48px;
+    line-height: normal;
+}
+.text4{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    line-height: 32px;
+
 }

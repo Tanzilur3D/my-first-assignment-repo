@@ -94,3 +94,70 @@ h2{
     line-height: 32px;
 
 }
+.icon{
+    margin: 120px  ;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(244, 219, 219, 0.996);
+}
+.icon2{
+    margin-left: 550px;
+}
+.icon3{
+    text-align: center;
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+}
+.icon4{
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    line-height: 32px;
+}
+.icon5{
+    text-align: center;
+}
+.icon6{
+    font-size: 20px;
+    font-style: normal;
+    color: #FFFFFF;
+    background-color: #F00;
+}
+.last{
+    margin-left: 80px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: #070211;
+    
+}
+.last1{
+    margin-left: 5%;
+    color: #FFFFFF;
+}
+.last2{
+    margin-left: 80%;
+    color: #FFFFFF;
+    
+
+}.last3{
+    margin-left: 80%;
+    color: #FFFFFF;
+}
+.open{
+   margin-left: 500px;
+   
+}
+.open2{
+    margin-left: 5%;
+    color: #FFF;
+    font-size: 24px;
+    line-height: normal;
+}
+.open3{
+    margin-left: 90%;
+    color: #FFF;
+    font-size: 24px;
+    line-height: normal;
+}
